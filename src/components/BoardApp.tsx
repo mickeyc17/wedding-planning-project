@@ -267,7 +267,7 @@ export default function BoardApp() {
       <header className="flex flex-wrap items-center justify-between gap-4">
         <div>
           <p className="text-sm uppercase tracking-[0.2em] text-ink/60">
-            Shivani and Mickey's Wedding
+            Shivani and Mickey&apos;s Wedding
           </p>
           <h1 className="text-3xl font-semibold">Task Tracker</h1>
         </div>
