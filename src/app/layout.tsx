@@ -2,7 +2,7 @@ import "./globals.css";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Wedding Project Tracker",
+  title: "Shivani and Mickey's Wedding Task Tracker",
   description: "Plan your wedding together with a shared Kanban board."
 };
 

@@ -5,10 +5,10 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        ink: "#101010",
-        parchment: "#f7f1e8",
-        accent: "#2f6f76",
-        accentSoft: "#b9d6d4",
+        ink: "#0f2f33",
+        parchment: "#f1fbfb",
+        accent: "#1d8f97",
+        accentSoft: "#bde7e8",
         alert: "#b45309"
       },
       boxShadow: {

@@ -8,6 +8,9 @@
 
 body {
   @apply bg-parchment text-ink antialiased;
+  font-family: "Palatino", "Book Antiqua", "Garamond", "Times New Roman", serif;
+  font-style: italic;
+  letter-spacing: 0.01em;
 }
 
 ::selection {

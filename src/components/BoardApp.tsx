@@ -266,8 +266,10 @@ export default function BoardApp() {
     <div className="space-y-6">
       <header className="flex flex-wrap items-center justify-between gap-4">
         <div>
-          <p className="text-sm uppercase tracking-[0.2em] text-ink/60">Wedding</p>
-          <h1 className="text-3xl font-semibold">Project Tracker</h1>
+          <p className="text-sm uppercase tracking-[0.2em] text-ink/60">
+            Shivani and Mickey's Wedding
+          </p>
+          <h1 className="text-3xl font-semibold">Task Tracker</h1>
         </div>
         <div className="flex flex-wrap items-center gap-3">
           <button
